@@ -1,0 +1,6 @@
+Repositorio de git con estadísticas fantasy:
+    https://github.com/vaastav/Fantasy-Premier-League
+Listado de jugadores y sus estadísticas (además de la puntuación de sofascore)
+    https://www.sofascore.com/es-la/football/tournament/england/premier-league/17#id:61627,tab:stats
+Listado de jugadores y sus estadísticas (además de la puntación de whoscored)
+    https://www.whoscored.com/regions/252/tournaments/2/seasons/10316/stages/23400/playerstatistics/england-premier-league-2024-2025

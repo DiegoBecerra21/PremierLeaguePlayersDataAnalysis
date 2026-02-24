@@ -7,6 +7,13 @@ import scrapy
 
 
 class PlayerstatsItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    equipo = scrapy.Field()
+    nombre = scrapy.Field()
+    goles = scrapy.Field()
+    goles_esperados = scrapy.Field()
+    regates_completados = scrapy.Field()
+    entradas = scrapy.Field()
+    asistencias = scrapy.Field()
+    pases_precisos = scrapy.Field()
+    puntuacion = scrapy.Field()
+    

@@ -37,8 +37,10 @@ class SofascoreStatsSpider(scrapy.Spider):
             
             yield item
 
-            # Selector de paginación
+        # Selector de paginación
         # Usamos XPath para buscar un boton hasta que el botón de avanzar página esté desactivado"
+        # Para saber si existe este botón hacemos lo siguiente:
+               
         
         
         if next_page:
